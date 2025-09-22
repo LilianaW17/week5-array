@@ -1,8 +1,5 @@
-# TUGAS WEEK 5 ARRAY METHODS
-
-## **Identitas**
-Nama: Ajeng Sakinah Wulandari
-NIM: F1D022001
+- **Nama**: Ajeng Sakinah Wulandari
+- **NIM**: F1D022001
 
 ## Deskripsi Tugas
 
